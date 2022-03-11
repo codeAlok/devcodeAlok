@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devcodeAlok
+- 👋 Hi, I’m @codeAlok
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning frontend framework(React Js)
 - 💞️ I’m looking to collaborate on single page web application
